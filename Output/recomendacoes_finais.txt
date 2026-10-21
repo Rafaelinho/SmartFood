@@ -1,0 +1,25 @@
+restaurante;prato;categoria;media_vendidos;percentagem_desperdicio;preparacao_recomendada
+Buffet Norte;Frango Grelhado;Carne;59;8;61
+Buffet Minho;Frango no Forno;Carne;61;8;63
+Buffet Norte;Carne de Porco;Carne;59;9;61
+Buffet Norte;Pescada Assada;Peixe;57;9;59
+Buffet Minho;Bifinhos de Porco;Carne;58;9;60
+Buffet Minho;Bacalhau a Bras;Peixe;59;9;61
+Buffet Norte;Salada Mista;Salada;50;10;52
+Buffet Minho;Salada de Atum;Salada;48;10;50
+Buffet Norte;Massa a Bolonhesa;Massa;46;11;48
+Buffet Norte;Arroz de Legumes;Vegetariano;49;11;51
+Buffet Minho;Lasanha de Carne;Massa;48;11;50
+Cantina Central;Frango com Arroz;Carne;60;11;62
+Cantina Central;Filetes de Pescada;Peixe;58;11;60
+Buffet Norte;Sopa de Legumes;Sopa;44;12;46
+Buffet Minho;Sopa de Feijao;Sopa;43;12;45
+Buffet Minho;Legumes Salteados;Vegetariano;46;12;48
+Buffet Minho;Pudim Caseiro;Sobremesa;37;12;38
+Cantina Central;Almondegas de Carne;Carne;57;12;59
+Buffet Norte;Fruta da Epoca;Sobremesa;36;13;38
+Cantina Central;Esparguete a Bolonhesa;Massa;50;14;52
+Cantina Central;Caril de Legumes;Vegetariano;46;14;48
+Cantina Central;Salada de Grao;Salada;48;14;50
+Cantina Central;Creme de Legumes;Sopa;41;17;43
+Cantina Central;Arroz Doce;Sobremesa;33;17;35

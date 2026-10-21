@@ -1,0 +1,13 @@
+*.tmp
+*.log
+*.bak
+
+Thumbs.db
+desktop.ini
+
+temp/
+tmp/
+
+*.db
+*.sqlite
+*.sqlite3

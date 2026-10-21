@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "restaurante_id": 1,
+    "nome": "Sopa de Legumes",
+    "categoria": "Sopa",
+    "preco": 2.50
+  },
+  {
+    "id": 2,
+    "restaurante_id": 1,
+    "nome": "Frango Grelhado",
+    "categoria": "Carne",
+    "preco": 8.50
+  },
+  {
+    "id": 3,
+    "restaurante_id": 1,
+    "nome": "Carne de Porco",
+    "categoria": "Carne",
+    "preco": 9.00
+  },
+  {
+    "id": 4,
+    "restaurante_id": 1,
+    "nome": "Pescada Assada",
+    "categoria": "Peixe",
+    "preco": 9.50
+  },
+  {
+    "id": 5,
+    "restaurante_id": 1,
+    "nome": "Massa a Bolonhesa",
+    "categoria": "Massa",
+    "preco": 7.50
+  },
+  {
+    "id": 6,
+    "restaurante_id": 1,
+    "nome": "Arroz de Legumes",
+    "categoria": "Vegetariano",
+    "preco": 7.00
+  },
+  {
+    "id": 7,
+    "restaurante_id": 1,
+    "nome": "Salada Mista",
+    "categoria": "Salada",
+    "preco": 5.50
+  },
+  {
+    "id": 8,
+    "restaurante_id": 1,
+    "nome": "Fruta da Epoca",
+    "categoria": "Sobremesa",
+    "preco": 2.00
+  },
+  {
+    "id": 9,
+    "restaurante_id": 2,
+    "nome": "Sopa de Feijao",
+    "categoria": "Sopa",
+    "preco": 2.50
+  },
+  {
+    "id": 10,
+    "restaurante_id": 2,
+    "nome": "Frango no Forno",
+    "categoria": "Carne",
+    "preco": 8.50
+  },
+  {
+    "id": 11,
+    "restaurante_id": 2,
+    "nome": "Bifinhos de Porco",
+    "categoria": "Carne",
+    "preco": 9.50
+  },
+  {
+    "id": 12,
+    "restaurante_id": 2,
+    "nome": "Bacalhau a Bras",
+    "categoria": "Peixe",
+    "preco": 10.00
+  },
+  {
+    "id": 13,
+    "restaurante_id": 2,
+    "nome": "Lasanha de Carne",
+    "categoria": "Massa",
+    "preco": 8.50
+  },
+  {
+    "id": 14,
+    "restaurante_id": 2,
+    "nome": "Legumes Salteados",
+    "categoria": "Vegetariano",
+    "preco": 6.50
+  },
+  {
+    "id": 15,
+    "restaurante_id": 2,
+    "nome": "Salada de Atum",
+    "categoria": "Salada",
+    "preco": 7.00
+  },
+  {
+    "id": 16,
+    "restaurante_id": 2,
+    "nome": "Pudim Caseiro",
+    "categoria": "Sobremesa",
+    "preco": 2.50
+  },
+  {
+    "id": 17,
+    "restaurante_id": 3,
+    "nome": "Creme de Legumes",
+    "categoria": "Sopa",
+    "preco": 2.00
+  },
+  {
+    "id": 18,
+    "restaurante_id": 3,
+    "nome": "Frango com Arroz",
+    "categoria": "Carne",
+    "preco": 7.50
+  },
+  {
+    "id": 19,
+    "restaurante_id": 3,
+    "nome": "Almondegas de Carne",
+    "categoria": "Carne",
+    "preco": 8.00
+  },
+  {
+    "id": 20,
+    "restaurante_id": 3,
+    "nome": "Filetes de Pescada",
+    "categoria": "Peixe",
+    "preco": 8.50
+  },
+  {
+    "id": 21,
+    "restaurante_id": 3,
+    "nome": "Esparguete a Bolonhesa",
+    "categoria": "Massa",
+    "preco": 7.00
+  },
+  {
+    "id": 22,
+    "restaurante_id": 3,
+    "nome": "Caril de Legumes",
+    "categoria": "Vegetariano",
+    "preco": 6.50
+  },
+  {
+    "id": 23,
+    "restaurante_id": 3,
+    "nome": "Salada de Grao",
+    "categoria": "Salada",
+    "preco": 5.50
+  },
+  {
+    "id": 24,
+    "restaurante_id": 3,
+    "nome": "Arroz Doce",
+    "categoria": "Sobremesa",
+    "preco": 2.00
+  }
+]
