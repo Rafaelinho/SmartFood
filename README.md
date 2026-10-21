@@ -96,3 +96,6 @@ SmartFood/
 
 ## Objetivo
 Demonstrar como um processo ETL pode transformar dados de consumo em informação útil para apoiar decisões de preparação de alimentos e contribuir para a redução do desperdício alimentar.
+
+## Link de Video
+https://youtu.be/_848QVEg7CQ
